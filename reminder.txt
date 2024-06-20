@@ -1,0 +1,5 @@
+git add . //для отслеживания изменения файлов в проекте
+git config --globa user.email your@ema.il // для настройки конфига 
+git config --global user.name yourName // для настройки  конфига
+git commit -m "message" // для сохранения изменений
+git push // для отправки в github/gitlub и т.п.
